@@ -2,7 +2,7 @@ function UserProfile() {
 	return {
 		transclude: {
 			name: 'h4',
-			position: '?h6',
+			position: 'h6',
 			description: '?p'
 		},
 		template: [
